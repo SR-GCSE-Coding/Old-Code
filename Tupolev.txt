@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+
+
+	<title>
+		<u>Website index</u>
+	</title>
+
+	<br>	
+	<hr>
+
+
+	
+
+</head>
+
+<body>
+	
+	<p>
+	<br>
+	<br>
+
+		<A href="\\mca-sr-fs2\StudentHome$\5SRielly\Documents\Year 9\Computer Science\Programming techniques\HTML\Webpage Folder\Index.html">Plane website</a>

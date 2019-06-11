@@ -1,0 +1,4 @@
+<h1>Airbus A380</h1>
+<hr />
+<p>The Airbus A380 is the largest plane to ever fly,&nbsp;with 550 square metres of floor space,&nbsp;it is designed and produced by European plane manufacturer <a href="https://en.wikipedia.org/wiki/Airbus">Airbus.</a>&nbsp;Its largest user is Emirates, who currently own 102 and have&nbsp;60 on order.</p>
+<p>The A380 has a flight range of 8,500 nautical miles and can fly at a max speed of mach 0.85 or 560 mph. The A380 usually carries 525 passengers in a standard three-class configuration, however it can fit 853 people in an all economy configuration.</p>

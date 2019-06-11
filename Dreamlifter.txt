@@ -1,0 +1,38 @@
+<html>
+
+
+<head>
+	<title>
+		Boeing Dreamlifter
+	</title>
+
+	<h1>
+		<u>Boeing Dreamlifter</u>
+	</h1>
+
+	<hr>
+
+</head>
+
+
+<body>
+
+	<p>
+		The Boeing 747-400 LCF, or Dreamlifter, is used by Boeing to carry Dreamliner parts from around the world to their assembly plants. The 747-400 LCF is
+		a heavily modified Boeing 747-400 and it can hold three times the volume of a 747-400F (freighter). The Dreamlifter was originally designed because 
+		787 parts were deemed too big for marine shipping containers as well as the 747-400f, Antonov AN-124 and Antonov AN-225. The Dreamlifter carries 787
+		parts from Japan and Italy to North Charleston, South Carolina and eventually Washington state for final assembly.
+	
+	<br>
+
+	<br>
+
+		The Dreamlifter has a large, bulging fuselage similar to that of the Super Guppy or Airbus A300-600ST Beluga, this fuselage is bigger than marine
+		shipping containers and the plane is faster than any truck, cargo ship, or train. The largest difference between the Dreamlifter and Beluga is that
+		the Dreamlifter loads cargo from the tail instead of the nose. The Dreamlifter has a range of 4,200 nautical miles when fully loaded. 
+
+
+</body>
+
+
+</html
